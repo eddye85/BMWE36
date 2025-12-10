@@ -100,13 +100,13 @@ M_r = 1323 · 135 ≈ **178 552**
 
 ## 4. Brake bias (statisk)
 
-\[
+$$
 \text{bias}_f = \frac{M_f}{M_f + M_r}
-\]
+$$
 
-\[
+$$
 \text{bias}_f = \frac{329804}{329804 + 178552} \approx 0{,}649
-\]
+$$
 
 ### → **Brake bias ≈ 65 % fram / 35 % bak**
 
@@ -226,13 +226,13 @@ Areor i m²:
 
 **Fram:**
 
-\[
+$$
 P_f = \frac{T_f}{\mu_{pad} \cdot A_{f,tot} \cdot r_{f,eff}}
-\]
+$$
 
-\[
+$$
 P_f \approx \frac{1282}{0{,}40 \cdot 4{,}549\cdot10^{-3} \cdot 0{,}145} \approx 4{,}86\cdot10^6 \,\text{Pa} \approx **48,6 bar**
-\]
+$$
 
 Bak blir samma (systemet är dimensionerat med samma tryck).
 
